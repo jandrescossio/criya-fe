@@ -1,0 +1,7 @@
+.image-link {
+  display: block;
+}
+
+.image-link span {
+  width: 100% !important;
+}
