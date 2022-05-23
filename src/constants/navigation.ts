@@ -2,7 +2,7 @@ import { Navigation } from '@/types/navigation'
 
 export const mainNavigation: Navigation.Option[] = [
   {
-    name: 'Home',
+    name: 'Products',
     href: '/'
   },
   {
